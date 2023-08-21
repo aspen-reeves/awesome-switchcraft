@@ -6,6 +6,8 @@
 
 **SwitchCraft** is a Minecraft server with the mods [CC: Tweaked](https://github.com/cc-tweaked/CC-Tweaked), [Plethora](https://github.com/SwitchCraftCC/Plethora-Fabric), [Krist](https://github.com/tmpim/Krist), among [others](https://github.com/SwitchCraftCC)
 
+This list is meant to cater directly to SwitchCraft players; for a more generic ComputerCraft list, see [awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft)
+
 If you would like to contribute, create an issue with the program and a link to its source code.
 
 ## Contents
