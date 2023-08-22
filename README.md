@@ -17,6 +17,7 @@ If you would like to contribute, create an issue with the program and a link to 
 	- [External Software](#external-software)
 - [Libraries](#libraries)
   - [Utility](#utility)
+- [Resources](#resources)
 
 
 ## Programs
@@ -38,3 +39,8 @@ If you would like to contribute, create an issue with the program and a link to 
  - [Krypton](https://github.com/Allymonies/Krypton) - Event-based node-agnostic Krist API library for Lua
  - [Bigfont](https://pastebin.com/3LfWxRWh) - Functions to write in bigger fonts
  - [Basalt](https://github.com/Pyroxenium/Basalt) - A UI Framework for CC:Tweaked
+
+## Resources
+ - [SwitchCraft Rules and Documentation](https://docs.sc3.io/) - has general information about the server and some of its mods
+ - [Plethora Documentation](https://plethora.madefor.cc/) - can be outdated, see [here](https://docs.sc3.io/whats-new/plethora.html) for changes
+ - [SwitchCraft Website](https://sc3.io) - Has general info and link to discord
