@@ -11,18 +11,16 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 ## Contents
 
-- [Awesome SwitchCraft](#awesome-switchcraft)
-  - [Contents](#contents)
-  - [Programs](#programs)
-    - [Shops](#shops)
-    - [Storage Systems](#storage-systems)
-    - [Neural Interface Programs](#neural-interface-programs)
-    - [External Software](#external-software)
-    - [Other](#other)
-  - [Libraries](#libraries)
-    - [Utility](#utility)
-    - [Builtins](#builtins)
-  - [Resources](#resources)
+- [Programs](#programs)
+  - [Shops](#shops)
+  - [Storage Systems](#storage-systems)
+  - [Neural Interface Programs](#neural-interface-programs)
+  - [External Software](#external-software)
+  - [Other](#other)
+- [Libraries](#libraries)
+  - [Utility](#utility)
+  - [Builtins](#builtins)
+- [Resources](#resources)
 
 ## Programs
 
