@@ -26,6 +26,7 @@ If you would like to contribute, create an issue with the program and a link to 
 - [Radon](https://github.com/Allymonies/Radon)  - A highly-configurable Krist shop
 - [Solidity Pools](https://github.com/afonya2/SolidityPools) - Solidity shop system for CC (similar to PG231's liquidity pool)
 - [Kristify](https://github.com/Kristify/Kristify) - Krist shop for ComputerCraft
+- [yfshop](https://github.com/yourfriendoss/yfshop) - Extremely basic & easy to run Krist shop for ComputerCraft
 
 ### Storage Systems
  - [Argon](https://github.com/Allymonies/Argon) - Automation-friendly inventory management system for CC: Tweaked
