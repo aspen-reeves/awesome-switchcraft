@@ -1,8 +1,6 @@
-
 # Awesome SwitchCraft
->
+
 > Awesome programs and libraries for the [SwitchCraft](https://sc3.io/) Minecraft server
->
 > This list is licensed under the FAFO-1-Clause, [a permissive public license](https://github.com/aspen-reeves/FAFO-PL)
 
 **SwitchCraft** is a Minecraft server with [CC: Tweaked](https://github.com/cc-tweaked/CC-Tweaked), [Plethora](https://github.com/SwitchCraftCC/Plethora-Fabric), [Krist](https://github.com/tmpim/Krist), among [others](https://github.com/SwitchCraftCC)
@@ -13,22 +11,24 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 ## Contents
 
-- [Programs](#programs)
-  - [Shops](#shops)
-  - [Storage Systems](#storage-systems)
-  - [Neural Interface Programs](#neural-interface-programs)
-  - [External Software](#external-software)
-  - [Other](#other)
-- [Libraries](#libraries)
-  - [Utility](#utility)
-  - [Builtins](#builtins)
-- [Resources](#resources)
+- [Awesome SwitchCraft](#awesome-switchcraft)
+  - [Contents](#contents)
+  - [Programs](#programs)
+    - [Shops](#shops)
+    - [Storage Systems](#storage-systems)
+    - [Neural Interface Programs](#neural-interface-programs)
+    - [External Software](#external-software)
+    - [Other](#other)
+  - [Libraries](#libraries)
+    - [Utility](#utility)
+    - [Builtins](#builtins)
+  - [Resources](#resources)
 
 ## Programs
 
 ### Shops
 
-- [Radon](https://github.com/Allymonies/Radon)  - A highly-configurable Krist shop
+- [Radon](https://github.com/Allymonies/Radon) - A highly-configurable Krist shop
 - [Solidity Pools](https://github.com/afonya2/SolidityPools) - Solidity shop system for CC (similar to PG231's liquidity pool)
 - [Kristify](https://github.com/Kristify/Kristify) - Krist shop for ComputerCraft
 - [yfshop](https://github.com/yourfriendoss/yfshop) - Extremely basic & easy to run Krist shop for ComputerCraft
@@ -68,7 +68,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [FindShop chatbox](https://github.com/slimit75/findshop) - The chatbox which powers \findshop, which allows to search through ShopSync-capable shops
 
 ### Builtins
->
+
 > These programs and libraries are preinstalled on computers in the [ROM](https://docs.sc3.io/faq/rom.html)
 
 - [Bigfont](https://pastebin.com/3LfWxRWh) - Functions to write in bigger fonts
@@ -77,8 +77,8 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 ## Resources
 
-- [SwitchCraft Rules and Documentation](https://docs.sc3.io/) - has general information about the server and some of its mods
-- [Plethora Documentation](https://plethora.madefor.cc/) - can be outdated, see [here](https://docs.sc3.io/whats-new/plethora.html) for changes
+- [SwitchCraft Rules and Documentation](https://docs.sc3.io/) - Has general information about the server and some of its mods
+- [Plethora Documentation](https://plethora.madefor.cc/) - Can be outdated, see [here](https://docs.sc3.io/whats-new/plethora.html) for changes
 - [SwitchCraft Website](https://sc3.io) - Has general info and link to discord
 - [SC3 Chat Leaderboards](https://leaderboard.yourfriend.lol/)
 - [SC3 Ingame Chat Ping Graphs](https://forged.phd/scpings/) - View global and per-player chat ping graphs
