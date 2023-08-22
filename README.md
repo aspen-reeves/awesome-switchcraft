@@ -49,15 +49,14 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 - [pmkam](https://github.com/migeyel/pmkam) - An OpenCL vanity address miner for Krist.
 - [img2poster](https://github.com/PatriikPlays/img2poster) - Fast converter between images and 2dj/a.
-- [kristforge](https://github.com/tmpim/kristforge) - Fastest GPU/CPU krist miner
 - [Tenebra Staking Node](https://github.com/Allymonies/tenebrastakingnode) - Tenebra is a alternative currency to Krist, and it is earned by staking.
-- 
+
 ### Other
 
 - [`^pchat` Server](https://p.sc3.io/AcyUGmkyM7) - Server for pchat private messaging
 - [FindShop reciever](https://github.com/slimit75/fs-reciever) - The computercraft app which recieves ShopSync data, and passes it to \findshop
 - [ECDHA key exchange implementation](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) - This allows for entierly secure, quick, public/private key cryptography in CC.
- 
+
 ## Libraries
 
 ### Utility
