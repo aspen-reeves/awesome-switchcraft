@@ -21,6 +21,7 @@ If you would like to contribute, create an issue with the program and a link to 
   - [Other](#other)
 - [Libraries](#libraries)
   - [Utility](#utility)
+  - [Builtins](#builtins)
 - [Resources](#resources)
 
 ## Programs
@@ -57,9 +58,16 @@ If you would like to contribute, create an issue with the program and a link to 
 ### Utility
 
 - [Krypton](https://github.com/Allymonies/Krypton) - Event-based node-agnostic Krist API library for Lua
-- [Bigfont](https://pastebin.com/3LfWxRWh) - Functions to write in bigger fonts
 - [Basalt](https://github.com/Pyroxenium/Basalt) - A UI Framework for CC:Tweaked
 - [Dynmap](https://p.sc3.io/hxHMUvEx8y) - Functions to wrap Dynmap API
+
+### Builtins
+>
+> These programs and libraries are preinstalled on computers in the [ROM](https://docs.sc3.io/faq/rom.html)
+
+- [Bigfont](https://pastebin.com/3LfWxRWh) - Functions to write in bigger fonts
+- [Cloud Catcher](https://cloud-catcher.squiddev.cc/) - Web terminal for ComputerCraft
+- [MBS](https://github.com/SquidDev-CC/mbs) - A Mildly Better Shell for ComputerCraft
 
 ## Resources
 
