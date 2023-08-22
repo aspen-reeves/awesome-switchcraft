@@ -16,6 +16,7 @@ If you would like to contribute, create an issue with the program and a link to 
 	- [Storage Systems](#storage-systems)
    	- [Neural Interface Programs](#neural-interface-programs)
 	- [External Software](#external-software)
+ 	- [Other](#other)
 - [Libraries](#libraries)
   - [Utility](#utility)
 - [Resources](#resources)
@@ -35,18 +36,25 @@ If you would like to contribute, create an issue with the program and a link to 
 
 ### Neural Interface Programs
  - [ShrekFlight](https://p.sc3.io/t6ZRrJutrN) - Basic flight program
+ - [Dynoverlay](https://p.sc3.io/EcMBeGtp7K) - View occupied claim information as well as nearby claim overlays in 3d
+ - [`\track` Client](https://p.sc3.io/wMnaMhYrWe) - Client program for the `\track` chatbox command.
 
 ### External Software
  - [pmkam](https://github.com/migeyel/pmkam) - An OpenCL vanity address miner for Krist.
+
+### Other
+ - [`^pchat` Server](https://p.sc3.io/AcyUGmkyM7) - Server for pchat private messaging
 
 ## Libraries
 ### Utility
  - [Krypton](https://github.com/Allymonies/Krypton) - Event-based node-agnostic Krist API library for Lua
  - [Bigfont](https://pastebin.com/3LfWxRWh) - Functions to write in bigger fonts
  - [Basalt](https://github.com/Pyroxenium/Basalt) - A UI Framework for CC:Tweaked
+ - [Dynmap](https://p.sc3.io/hxHMUvEx8y) - Functions to wrap Dynmap API
 
 ## Resources
  - [SwitchCraft Rules and Documentation](https://docs.sc3.io/) - has general information about the server and some of its mods
  - [Plethora Documentation](https://plethora.madefor.cc/) - can be outdated, see [here](https://docs.sc3.io/whats-new/plethora.html) for changes
  - [SwitchCraft Website](https://sc3.io) - Has general info and link to discord
  - [SC3 Chat Leaderboards](https://leaderboard.yourfriend.lol/)
+ - [SC3 Ingame Chat Ping Graphs](https://forged.phd/scpings/) - View global and per-player chat ping graphs
