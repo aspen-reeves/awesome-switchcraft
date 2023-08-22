@@ -9,7 +9,7 @@
 
 This list is meant to cater directly to SwitchCraft players; for a more generic ComputerCraft list, see [awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft)
 
-If you would like to contribute, create an issue with the program and a link to its source code.
+If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or just create an issue with the program and a link to its source)
 
 ## Contents
 
