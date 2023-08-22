@@ -38,6 +38,7 @@ If you would like to contribute, create an issue with the program and a link to 
 
 ### External Software
  - [pmkam](https://github.com/migeyel/pmkam) - An OpenCL vanity address miner for Krist.
+ - [img2poster](https://github.com/PatriikPlays/img2poster) - Fast converter between images and 2dj/a.
 
 ## Libraries
 ### Utility
