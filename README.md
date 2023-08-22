@@ -49,7 +49,8 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 - [pmkam](https://github.com/migeyel/pmkam) - An OpenCL vanity address miner for Krist.
 - [img2poster](https://github.com/PatriikPlays/img2poster) - Fast converter between images and 2dj/a.
-- [Tenebra Staking Node](https://github.com/Allymonies/tenebrastakingnode) - Tenebra is a alternative currency to Krist, and it is earned by staking.
+- [Tenebra](https://github.com/Allymonies/Tenebra) - Tenebra is a alternative currency to krist, earned by staking
+  - [Tenebra Staking Node](https://github.com/Allymonies/tenebrastakingnode) - Tenebra staking node
 
 ### Other
 
