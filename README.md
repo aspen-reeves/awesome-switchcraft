@@ -14,6 +14,7 @@ If you would like to contribute, create an issue with the program and a link to 
 - [Programs](#programs)
 	- [Shops](#shops)
 	- [Storage Systems](#storage-systems)
+   	- [Neural Interface Programs](#neural-interface-programs)
 	- [External Software](#external-software)
 - [Libraries](#libraries)
   - [Utility](#utility)
@@ -32,6 +33,9 @@ If you would like to contribute, create an issue with the program and a link to 
  - [Argon](https://github.com/Allymonies/Argon) - Automation-friendly inventory management system for CC: Tweaked
  - [artist](https://github.com/SquidDev-CC/artist) - A Rather Tremendous Item SysTem
 
+### Neural Interface Programs
+ - [ShrekFlight](https://p.sc3.io/t6ZRrJutrN) - Basic flight program
+
 ### External Software
  - [pmkam](https://github.com/migeyel/pmkam) - An OpenCL vanity address miner for Krist.
 
@@ -45,3 +49,4 @@ If you would like to contribute, create an issue with the program and a link to 
  - [SwitchCraft Rules and Documentation](https://docs.sc3.io/) - has general information about the server and some of its mods
  - [Plethora Documentation](https://plethora.madefor.cc/) - can be outdated, see [here](https://docs.sc3.io/whats-new/plethora.html) for changes
  - [SwitchCraft Website](https://sc3.io) - Has general info and link to discord
+ - [SC3 Chat Leaderboards](https://leaderboard.yourfriend.lol/)
