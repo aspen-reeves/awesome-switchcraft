@@ -37,6 +37,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 - [Argon](https://github.com/Allymonies/Argon) - Automation-friendly inventory management system for CC: Tweaked
 - [artist](https://github.com/SquidDev-CC/artist) - A Rather Tremendous Item SysTem
+- [RoundJay](https://github.com/hugeblank/RoundJay) - Extendable item system, with great addon/module support
 
 ### Neural Interface Programs
 
@@ -48,10 +49,13 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 - [pmkam](https://github.com/migeyel/pmkam) - An OpenCL vanity address miner for Krist.
 - [img2poster](https://github.com/PatriikPlays/img2poster) - Fast converter between images and 2dj/a.
+- [Tenebra Staking Node](https://github.com/Allymonies/tenebrastakingnode) - Tenebra is a alternative currency to Krist, and it is earned by staking.
 
 ### Other
 
 - [`^pchat` Server](https://p.sc3.io/AcyUGmkyM7) - Server for pchat private messaging
+- [FindShop reciever](https://github.com/slimit75/fs-reciever) - The computercraft app which recieves ShopSync data, and passes it to \findshop
+- [ECDHA key exchange implementation](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) - This allows for entierly secure, quick, public/private key cryptography in CC.
 
 ## Libraries
 
@@ -60,6 +64,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Krypton](https://github.com/Allymonies/Krypton) - Event-based node-agnostic Krist API library for Lua
 - [Basalt](https://github.com/Pyroxenium/Basalt) - A UI Framework for CC:Tweaked
 - [Dynmap](https://p.sc3.io/hxHMUvEx8y) - Functions to wrap Dynmap API
+- [FindShop chatbox](https://github.com/slimit75/findshop) - The chatbox which powers \findshop, which allows to search through ShopSync-capable shops
 
 ### Builtins
 >
