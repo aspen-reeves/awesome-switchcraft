@@ -15,6 +15,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
   - [Shops](#shops)
   - [Storage Systems](#storage-systems)
   - [Neural Interface Programs](#neural-interface-programs)
+  - [Operating Systems](#operating-systems)
   - [External Software](#external-software)
   - [Other](#other)
 - [Libraries](#libraries)
@@ -36,12 +37,19 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Argon](https://github.com/Allymonies/Argon) - Automation-friendly inventory management system for CC: Tweaked
 - [artist](https://github.com/SquidDev-CC/artist) - A Rather Tremendous Item SysTem
 - [RoundJay](https://github.com/hugeblank/RoundJay) - Extendable item system, with great addon/module support
+- [MISC](https://github.com/MasonGulu/CC-MISC) - Modular Inventory Storage and Crafting
+- [MILO](https://github.com/kepler155c/opus-apps/tree/develop-1.8/milo) - Another popular storage system; an application for the [opus operating system](#operating-systems)
 
 ### Neural Interface Programs
 
 - [ShrekFlight](https://p.sc3.io/t6ZRrJutrN) - Basic flight program
 - [Dynoverlay](https://p.sc3.io/EcMBeGtp7K) - View occupied claim information as well as nearby claim overlays in 3d
 - [`\track` Client](https://p.sc3.io/wMnaMhYrWe) - Client program for the `\track` chatbox command.
+
+### Operating Systems
+
+- [opus](https://github.com/kepler155c/opus) - Cool operating systems with lots of builtin programs
+  - [opus-apps](https://github.com/kepler155c/opus-apps) - collection of opus apps
 
 ### External Software
 
@@ -54,7 +62,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 - [`^pchat` Server](https://p.sc3.io/AcyUGmkyM7) - Server for pchat private messaging
 - [FindShop reciever](https://github.com/slimit75/fs-reciever) - The computercraft app which recieves ShopSync data, and passes it to \findshop
-- [ECDHA key exchange implementation](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) - This allows for entierly secure, quick, public/private key cryptography in CC.
+- [Musicify](https://github.com/knijn/musicify) - A music player for ComputerCraft
 
 ## Libraries
 
@@ -64,6 +72,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Basalt](https://github.com/Pyroxenium/Basalt) - A UI Framework for CC:Tweaked
 - [Dynmap](https://p.sc3.io/hxHMUvEx8y) - Functions to wrap Dynmap API
 - [FindShop chatbox](https://github.com/slimit75/findshop) - The chatbox which powers \findshop, which allows to search through ShopSync-capable shops
+- [ECDHA key exchange implementation](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) - This allows for entierly secure, quick, public/private key cryptography in CC.
 
 ### Builtins
 
