@@ -30,9 +30,11 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 ### Shops
 
 - [Radon](https://github.com/Allymonies/Radon) - A highly-configurable Krist shop
-- [Solidity Pools](https://github.com/afonya2/SolidityPools) - Solidity shop system for CC (similar to PG231's liquidity pool)
 - [Kristify](https://github.com/Kristify/Kristify) - Krist shop for ComputerCraft
 - [yfshop](https://github.com/yourfriendoss/yfshop) - Extremely basic & easy to run Krist shop for ComputerCraft
+
+
+NOTE: Solidity Pools was once here, however due to the potential of rouge commits, it has been removed from this list.
 
 ### Storage Systems
 
