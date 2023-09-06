@@ -30,6 +30,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 ### Shops
 
 - [Radon](https://github.com/Allymonies/Radon) - A highly-configurable Krist shop
+  - [Microlayout.lua](https://gist.github.com/umnikos/3c8b2f99ae9df0a4f00744437d579cee) - A Radon layout for 1x1 monitor shops
 - [Kristify](https://github.com/Kristify/Kristify) - Krist shop for ComputerCraft
 - [yfshop](https://github.com/yourfriendoss/yfshop) - Extremely basic & easy to run Krist shop for ComputerCraft
 
