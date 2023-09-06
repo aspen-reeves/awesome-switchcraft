@@ -23,6 +23,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Libraries](#libraries)
   - [Utility](#utility)
   - [Builtins](#builtins)
+- [Other Projects](#other-projects)
 - [Resources](#resources)
 
 ## Programs
@@ -93,6 +94,9 @@ NOTE: Solidity Pools was once here, however due to the potential of rouge commit
 - [Bigfont](https://pastebin.com/3LfWxRWh) - Functions to write in bigger fonts
 - [Cloud Catcher](https://cloud-catcher.squiddev.cc/) - Web terminal for ComputerCraft
 - [MBS](https://github.com/SquidDev-CC/mbs) - A Mildly Better Shell for ComputerCraft
+
+## Other Projects
+- [No Armor sc](https://i.pixium.lol/no-armor-sc.zip) - Resource pack that removes Elytras, Armor, NIs, Magnets, and Hover Boots
 
 ## Resources
 
