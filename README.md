@@ -69,7 +69,7 @@ NOTE: Solidity Pools was once here, however due to the potential of rouge commit
   - [Tenebra Staking Node](https://github.com/Allymonies/tenebrastakingnode) - Tenebra staking node
 
 ### Other
-
+- [chester](https://p.sc3.io/qEDtRRMeny) - Enderstorage frequency picker
 - [`^pchat` Server](https://p.sc3.io/AcyUGmkyM7) - Server for pchat private messaging
 - [FindShop reciever](https://github.com/slimit75/fs-reciever) - The computercraft app which recieves ShopSync data, and passes it to \findshop
 - [Musicify](https://github.com/knijn/musicify) - A music player for ComputerCraft
