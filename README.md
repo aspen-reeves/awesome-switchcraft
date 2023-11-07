@@ -88,6 +88,7 @@ NOTE: Solidity Pools was once here, however due to the potential of rouge commit
 - [FindShop chatbox](https://github.com/slimit75/findshop) - The chatbox which powers \findshop, which allows to search through ShopSync-capable shops
 - [ECDHA key exchange implementation](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) - This allows for entierly secure, quick, public/private key cryptography in CC.
 - [speakerlib](https://github.com/throughthefog/speakerlib) - CC speaker library with support for stereo audio
+- [hopper.lua](https://github.com/umnikos/hopper.lua) - The ffmpeg of minecraft item transportation: move items from A to B without any hassle.
 
 ### Builtins
 
