@@ -55,6 +55,7 @@ NOTE: Solidity Pools was once here, however due to the potential of rouge commit
 - [ShrekFlight](https://p.sc3.io/t6ZRrJutrN) - Basic flight program
 - [Dynoverlay](https://p.sc3.io/EcMBeGtp7K) - View occupied claim information as well as nearby claim overlays in 3d
 - [`\track` Client](https://p.sc3.io/wMnaMhYrWe) - Client program for the `\track` chatbox command.
+- [Plethora Meters](https://github.com/Snowflake-Software/plethora-meters) - Rainmeter-esque information display on a neural interface with overlay glasses
 
 ### Operating Systems
 
