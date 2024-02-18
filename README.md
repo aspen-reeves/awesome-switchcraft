@@ -36,7 +36,6 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [yfshop](https://github.com/yourfriendoss/yfshop) - Extremely basic & easy to run Krist shop for ComputerCraft
 
 
-NOTE: Solidity Pools was once here, however due to the potential of rouge commits, it has been removed from this list.
 
 ### Storage Systems
 
