@@ -56,7 +56,8 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [`\track` Client](https://p.sc3.io/wMnaMhYrWe) - Client program for the `\track` chatbox command.
 - [Plethora Meters](https://github.com/Snowflake-Software/plethora-meters) - Rainmeter-esque information display on a neural interface with overlay glasses
 - [Minit](https://github.com/Ale32bit/Minit) - Elytra flight program and auto feeder
-
+- [Katze Xray](https://p.sc3.io/kfFWEXa4KX) - Simple plethora Xray program, usage: `xray minecraft:diamond_ore`
+  
 ### Operating Systems
 
 - [opus](https://github.com/kepler155c/opus) - Cool operating systems with lots of builtin programs
@@ -79,6 +80,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Musicify](https://github.com/knijn/musicify) - A music player for ComputerCraft
 - [ShopIndex](https://shops.alexdevs.me) - Shops aggregator to browse the catalogue. Uses ShopSync
 - [Quartz](https://github.com/Ale32bit/Quartz) - DFPWM and MDFPWM audio player for ComputerCraft
+
 
 ## Libraries
 
