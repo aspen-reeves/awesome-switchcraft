@@ -81,7 +81,6 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [ShopIndex](https://shops.alexdevs.me) - Shops aggregator to browse the catalogue. Uses ShopSync
 - [Quartz](https://github.com/Ale32bit/Quartz) - DFPWM and MDFPWM audio player for ComputerCraft
 
-
 ## Libraries
 
 ### Utility
