@@ -38,10 +38,10 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 ### Storage Systems
 
 - [Argon](https://github.com/Allymonies/Argon) - Automation-friendly inventory management system for CC: Tweaked
-- [artist](https://github.com/SquidDev-CC/artist) - A Rather Tremendous Item SysTem
+- [Artist](https://github.com/SquidDev-CC/artist) - A Rather Tremendous Item SysTem
 - [RoundJay](https://github.com/hugeblank/RoundJay) - Extendable item system, with great addon/module support
 - [MISC](https://github.com/MasonGulu/CC-MISC) - Modular Inventory Storage and Crafting
-- [MILO](https://github.com/kepler155c/opus-apps/tree/develop-1.8/milo) - Another popular storage system; an application for the [opus operating system](#operating-systems)
+- [Milo](https://github.com/kepler155c/opus-apps/tree/develop-1.8/milo) - Another popular storage system; an application for the [opus operating system](#operating-systems)
 
 #### Data Storage
 
@@ -51,7 +51,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 - [ShrekFlight](https://p.sc3.io/t6ZRrJutrN) - Basic flight program
 - [Dynoverlay](https://p.sc3.io/EcMBeGtp7K) - View occupied claim information as well as nearby claim overlays in 3d
-- [`\track` Client](https://p.sc3.io/wMnaMhYrWe) - Client program for the `\track` chatbox command.
+- [`\track` Client](https://p.sc3.io/wMnaMhYrWe) - Client program for the `\track` chatbox command
 - [Plethora Meters](https://github.com/Snowflake-Software/plethora-meters) - Rainmeter-esque information display on a neural interface with overlay glasses
 - [Minit](https://github.com/Ale32bit/Minit) - Elytra flight program and auto feeder
 - [Katze Xray](https://p.sc3.io/kfFWEXa4KX) - Simple plethora Xray program, usage: `xray minecraft:diamond_ore`
@@ -63,8 +63,8 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 ### External Software
 
-- [pmkam](https://github.com/migeyel/pmkam) - An OpenCL vanity address miner for Krist.
-- [img2poster](https://github.com/PatriikPlays/img2poster) - Fast converter between images and 2dj/a.
+- [pmkam](https://github.com/migeyel/pmkam) - An OpenCL vanity address miner for Krist
+- [img2poster](https://github.com/PatriikPlays/img2poster) - Fast converter between images and 2dj/a
 - [Tenebra](https://github.com/Allymonies/Tenebra) - Tenebra is a alternative currency to krist, earned by staking
   - [Tenebra Staking Node](https://github.com/Allymonies/tenebrastakingnode) - Tenebra staking node
 - [QuartzEncoder](https://cc.alexdevs.me/) - DFPWM and MDFPWM online converter from media services such as YouTube
@@ -74,7 +74,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [chester](https://p.sc3.io/qEDtRRMeny) - Enderstorage frequency picker
 - [CarrotPay](https://github.com/scmcgowen/carrotpay) - A simple chatbox based kristpay replacement to have more control over your kst
 - [`^pchat` Server](https://p.sc3.io/AcyUGmkyM7) - Server for pchat private messaging
-- [FindShop reciever](https://github.com/slimit75/fs-reciever) - The computercraft app which recieves ShopSync data, and passes it to \findshop
+- [FindShop reciever](https://github.com/slimit75/fs-reciever) - The ComputerCraft app which recieves ShopSync data, and passes it to \findshop
 - [Musicify](https://github.com/knijn/musicify) - A music player for ComputerCraft
 - [ShopIndex](https://shops.alexdevs.me) - Shops aggregator to browse the catalogue. Uses ShopSync
 - [Quartz](https://github.com/Ale32bit/Quartz) - DFPWM and MDFPWM audio player for ComputerCraft
@@ -88,10 +88,9 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Dynmap](https://p.sc3.io/hxHMUvEx8y) - Functions to wrap Dynmap API
 - [cbb](https://github.com/migeyel/cbb) - Simple Chatbox parser
 - [ccryptolib](https://github.com/migeyel/ccryptolib) - Collection of cryptographic primitives written in Lua
-- [FindShop chatbox](https://github.com/slimit75/findshop) - The chatbox which powers \findshop, which allows to search through ShopSync-capable shops
 - [ECDHA key exchange implementation](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) - This allows for entierly secure, quick, public/private key cryptography in CC.
 - [speakerlib](https://github.com/throughthefog/speakerlib) - CC speaker library with support for stereo audio
-- [hopper.lua](https://github.com/umnikos/hopper.lua) - The ffmpeg of minecraft item transportation: move items from A to B without any hassle.
+- [hopper.lua](https://github.com/umnikos/hopper.lua) - The ffmpeg of Minecraft item transportation: move items from A to B without any hassle
 
 ### Builtins
 
@@ -104,6 +103,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 ## Other Projects
 
 - [No Armor SC](https://i.patriik.one/no-armor-sc.zip) - Resource pack that removes Elytras, Armor, NIs, Magnets, and Hover Boots
+- [FindShop chatbox](https://github.com/Pixium/findshop) - The chatbox which powers \findshop, which allows to search through ShopSync-capable shops
 
 ## Resources
 
