@@ -35,8 +35,6 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Kristify](https://github.com/Kristify/Kristify) - Krist shop for ComputerCraft
 - [yfshop](https://github.com/yourfriendoss/yfshop) - Extremely basic & easy to run Krist shop for ComputerCraft
 
-
-
 ### Storage Systems
 
 - [Argon](https://github.com/Allymonies/Argon) - Automation-friendly inventory management system for CC: Tweaked
@@ -57,7 +55,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Plethora Meters](https://github.com/Snowflake-Software/plethora-meters) - Rainmeter-esque information display on a neural interface with overlay glasses
 - [Minit](https://github.com/Ale32bit/Minit) - Elytra flight program and auto feeder
 - [Katze Xray](https://p.sc3.io/kfFWEXa4KX) - Simple plethora Xray program, usage: `xray minecraft:diamond_ore`
-  
+
 ### Operating Systems
 
 - [opus](https://github.com/kepler155c/opus) - Cool operating systems with lots of builtin programs
@@ -104,7 +102,8 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [MBS](https://github.com/SquidDev-CC/mbs) - A Mildly Better Shell for ComputerCraft
 
 ## Other Projects
-- [No Armor sc](https://i.pixium.lol/no-armor-sc.zip) - Resource pack that removes Elytras, Armor, NIs, Magnets, and Hover Boots
+
+- [No Armor SC](https://i.patriik.one/no-armor-sc.zip) - Resource pack that removes Elytras, Armor, NIs, Magnets, and Hover Boots
 
 ## Resources
 
