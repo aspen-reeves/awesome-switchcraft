@@ -59,7 +59,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 ### Operating Systems
 
 - [opus](https://github.com/kepler155c/opus) - Cool operating systems with lots of builtin programs
-  - [opus-apps](https://github.com/kepler155c/opus-apps) - collection of opus apps
+  - [opus-apps](https://github.com/kepler155c/opus-apps) - Collection of opus apps
 
 ### External Software
 
@@ -112,3 +112,4 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [SwitchCraft Website](https://sc3.io) - Has general info and link to discord
 - [SC3 Chat Leaderboards](https://leaderboard.yourfriend.lol/)
 - [SC3 Ingame Chat Ping Graphs](https://forged.phd/scpings/) - View global and per-player chat ping graphs
+- [SC3 introduction for new players](https://gist.github.com/umnikos/590a2cd6f15078c97d50c350977c022e) - A detailed guide for new players
