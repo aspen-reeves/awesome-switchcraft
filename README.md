@@ -66,7 +66,11 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [pmkam](https://github.com/migeyel/pmkam) - An OpenCL vanity address miner for Krist
 - [img2poster](https://github.com/PatriikPlays/img2poster) - Fast converter between images and 2dj/a
 - [Tenebra](https://github.com/Allymonies/Tenebra) - Tenebra is a alternative currency to krist, earned by staking
-  - [Tenebra Staking Node](https://github.com/Allymonies/tenebrastakingnode) - Tenebra staking node
+  - [Tenebra Staking Node (Allymonies)](https://github.com/Allymonies/tenebrastakingnode) - Tenebra staking node written in JavaScript
+  - [Tenebra Stake (Erb3)](https://github.com/Erb3/TenebraStake) - Tenebra staking node written in Rust
+  - [Tenebra Stake Node (PatriikPlays)](https://github.com/PatriikPlays/tenebrastakenode) - Tenebra staking node written in C++
+  - [Tenebra Validator (Anavrins)](https://github.com/xAnavrins/TenebraValidator) - Tenebra staking node written in JavaScript
+  - [Tenebra.lua (AlexDevs)](https://gist.github.com/Ale32bit/2978fd3962506a8a943fbcf115084b6b) - Tenebra staking node for CC: Tweaked written in Lua
 - [QuartzEncoder](https://cc.alexdevs.me/) - DFPWM and MDFPWM online converter from media services such as YouTube
 
 ### Other
