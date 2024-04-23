@@ -55,6 +55,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Plethora Meters](https://github.com/Snowflake-Software/plethora-meters) - Rainmeter-esque information display on a neural interface with overlay glasses
 - [Minit](https://github.com/Ale32bit/Minit) - Elytra flight program and auto feeder
 - [Katze Xray](https://p.sc3.io/kfFWEXa4KX) - Simple plethora Xray program, usage: `xray minecraft:diamond_ore`
+- [Hyperlane.lua](https://p.sc3.io/eWFm4yawhX) - Program to efficiently fly in the hyperlane without rubberbanding
 
 ### Operating Systems
 
@@ -72,6 +73,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
   - [Tenebra Validator (Anavrins)](https://github.com/xAnavrins/TenebraValidator) - Tenebra staking node written in JavaScript
   - [Tenebra.lua (AlexDevs)](https://gist.github.com/Ale32bit/2978fd3962506a8a943fbcf115084b6b) - Tenebra staking node for CC: Tweaked written in Lua
 - [QuartzEncoder](https://cc.alexdevs.me/) - DFPWM and MDFPWM online converter from media services such as YouTube
+- [FindShop chatbox](https://github.com/Pixium/findshop) - The chatbox which powers \findshop, which allows to search through ShopSync-capable shops
 
 ### Other
 
@@ -107,7 +109,6 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 ## Other Projects
 
 - [No Armor SC](https://i.patriik.one/no-armor-sc.zip) - Resource pack that removes Elytras, Armor, NIs, Magnets, and Hover Boots
-- [FindShop chatbox](https://github.com/Pixium/findshop) - The chatbox which powers \findshop, which allows to search through ShopSync-capable shops
 
 ## Resources
 
