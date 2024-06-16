@@ -84,6 +84,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Musicify](https://github.com/knijn/musicify) - A music player for ComputerCraft
 - [ShopIndex](https://shops.alexdevs.me) - Shops aggregator to browse the catalogue. Uses ShopSync
 - [Quartz](https://github.com/Ale32bit/Quartz) - DFPWM and MDFPWM audio player for ComputerCraft
+- [CCTunes](https://github.com/Hellscaped/cctunes) - Music radio station software & websocket audio player, with built-in cover art and metadata providers.
 
 ## Libraries
 
