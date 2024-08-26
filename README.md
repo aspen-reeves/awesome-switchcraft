@@ -6,6 +6,8 @@
 
 **SwitchCraft** is a Minecraft server with [CC: Tweaked](https://github.com/cc-tweaked/CC-Tweaked), [Plethora](https://github.com/SwitchCraftCC/Plethora-Fabric), [Krist](https://github.com/tmpim/Krist), among [others](https://github.com/SwitchCraftCC)
 
+**SwitchCraft is shutting down September 27, 2024. Thank you all for the contributions to this list, and thank you SwitchCraft maintainers for giving us this amazing server! This list shall stay up as a public archive**
+
 This list is meant to cater directly to SwitchCraft players; for a more generic ComputerCraft list, see [awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft)
 
 If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or just create an issue with the program and a link to its source or wiki)
